@@ -1,0 +1,2 @@
+To install new packages in jupyter notebook, use command:
+!{sys.executable} -m pip install <package name>
